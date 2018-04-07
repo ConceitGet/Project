@@ -33,11 +33,11 @@
 <script type="text/javascript" src="<%=path %>/homejs/jquery.fancybox.js"></script>
 <script src="<%=path %>/homejs/jPages.js"></script>
 <link href="<%=path%>/css/css.css" rel="stylesheet" media="screen"/>
-<%--<style>--%>
-<%--body {--%>
-	<%--behavior: url(css/hover.htc);--%>
-<%--}--%>
-<%--</style>--%>
+<style>
+body {
+	behavior: url(css/hover.htc);
+}
+</style>
 <script>
   /* when document is ready */
   $(function() { 

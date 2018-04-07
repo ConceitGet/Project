@@ -18,7 +18,7 @@
       <configuration />
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
@@ -30,6 +30,17 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.0.39" level="application_server_libraries" />
+    <orderEntry type="library" name="servlet-api" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://F:/Course_catalog/Eclipse_Note/SaleHome/web/WEB-INF/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://F:/Course_catalog/Eclipse_Note/SaleHome/web/WEB-INF/lib" recursive="false" />
+      </library>
+    </orderEntry>
     <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.31" level="project" />
     <orderEntry type="library" name="Maven: mysql:mysql-connector-java:5.1.42" level="project" />
@@ -80,16 +91,7 @@
     <orderEntry type="library" name="Maven: org.apache.commons:commons-email:1.4" level="project" />
     <orderEntry type="library" name="Maven: com.sun.mail:javax.mail:1.5.2" level="project" />
     <orderEntry type="library" name="Maven: javax.activation:activation:1.1.1" level="project" />
-    <orderEntry type="library" name="servlet-api" level="project" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$MODULE_DIR$/../../Course_catalog/Eclipse_Note/SaleHome/web/WEB-INF/lib" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/../../Course_catalog/Eclipse_Note/SaleHome/web/WEB-INF/lib" recursive="false" />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="commons-codec-1.9" level="project" />
   </component>
 </module>

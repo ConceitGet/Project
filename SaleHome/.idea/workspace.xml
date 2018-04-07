@@ -7,471 +7,366 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f717ebf-c03c-4318-adc6-a2733c6da175" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/H-ui前端框架官方网站.URL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/_blank.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/_footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/_header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/_menu.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/_meta.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/admin-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/admin-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/admin-password-edit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/admin-permission.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/admin-role-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/admin-role.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/article-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/article-class-edit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/article-class.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/article-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/change-password.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/charts-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/charts-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/charts-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/charts-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/charts-5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/charts-6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/charts-7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/codeing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/feedback-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/index-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/anchor/anchor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/attachment.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/attachment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/attachment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_chm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_default.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_doc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_exe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_mv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_psd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_rar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_txt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/fileTypeImages/icon_xls.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/alignicon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/alignicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/file-icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/file-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/progress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/success.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/attachment/images/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/background/background.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/background/background.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/background/background.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/background/images/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/background/images/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/chart.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/charts.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/charts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/charts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/images/charts0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/images/charts1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/images/charts2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/images/charts3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/images/charts4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/charts/images/charts5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/emotion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/emotion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/emotion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/0.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/bface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/cface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/fface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/jxface2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/neweditor-tab-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/tface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/wface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/emotion/images/yface.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/gmap/gmap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/help/help.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/help/help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/help/help.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/image.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/images/alignicon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/images/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/images/icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/images/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/images/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/images/progress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/images/success.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/image/images/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/insertframe/insertframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/internal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/link/link.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/map/map.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/map/show.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/music/music.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/music/music.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/music/music.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/preview/preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/addimg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/brush.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/delimg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/delimgH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/empty.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/emptyH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/eraser.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/redo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/redoH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/scale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/scaleH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/size.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/undo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/images/undoH.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/scrawl.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/scrawl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/scrawl/scrawl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/searchreplace/searchreplace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/searchreplace/searchreplace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/snapscreen/snapscreen.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/spechars/spechars.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/spechars/spechars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/table/dragicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/table/edittable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/table/edittable.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/table/edittable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/table/edittd.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/table/edittip.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/images/bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/images/pre0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/images/pre1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/images/pre2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/images/pre3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/images/pre4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/template.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/template/template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/center_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/file-icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/file-icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/left_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/none_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/progress.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/right_focus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/success.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/images/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/video.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/video.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/video/video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/webapp/webapp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/wordimage/fClipboard_ueditor.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/wordimage/imageUploader.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/wordimage/tangram.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/wordimage/wordimage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/dialogs/wordimage/wordimage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/controller.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/lib/commons-codec-1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/lib/commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/lib/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/lib/json.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/lib/ueditor-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/ActionEnter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/ConfigManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/Encoder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/PathFormat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/ActionMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/ActionState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/AppInfo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/BaseState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/FileType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/MIMEType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/MultiState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/define/State.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/hunter/FileManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/hunter/ImageHunter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/upload/Base64Uploader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/upload/BinaryUploader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/upload/StorageManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/jsp/src/com/baidu/ueditor/upload/Uploader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/addimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/alldeletebtnhoverskin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/alldeletebtnupskin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/deletedisable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/deleteenable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/listbackground.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/localimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/rotateleftdisable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/rotateleftenable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/rotaterightdisable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/rotaterightenable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/en/images/upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/zh-cn/images/copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/zh-cn/images/localimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/zh-cn/images/music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/zh-cn/images/upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/lang/zh-cn/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/App_Code/Config.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/App_Code/ConfigHandler.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/App_Code/CrawlerHandler.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/App_Code/Handler.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/App_Code/ListFileHandler.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/App_Code/NotSupportedHandler.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/App_Code/PathFormater.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/App_Code/UploadHandler.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/Bin/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/Bin/Newtonsoft.Json.pdb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/Bin/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/Web.config" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/controller.ashx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/net/net.sln" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/php/Uploader.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/php/action_crawler.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/php/action_list.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/php/action_upload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/php/config.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/php/controller.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/css/ueditor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/css/ueditor.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/dialogbase.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/arrow_down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/arrow_up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/button-bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/cancelbutton.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/charts.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/cursor_h.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/cursor_h.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/cursor_v.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/cursor_v.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/dialog-title-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/filescan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/highlighted.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/icons-all.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/icons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/loaderror.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/lock.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/neweditor-tab-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/pagebreak.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/scale.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/sortable.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/sparator_v.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/table-cell-align.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/tangram-colorpicker.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/toolbar_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/unhighlighted.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/upload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/videologo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/word.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/default/images/wordpaste.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/themes/iframe.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/SyntaxHighlighter/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/SyntaxHighlighter/shCoreDefault.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/codemirror/codemirror.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/codemirror/codemirror.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/adapters/mootools-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/adapters/mootools-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/adapters/prototype-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/adapters/prototype-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/adapters/standalone-framework.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/adapters/standalone-framework.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/highcharts-more.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/highcharts.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/annotations.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/annotations.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/canvas-tools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/canvas-tools.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/data.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/drilldown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/drilldown.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/exporting.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/exporting.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/funnel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/funnel.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/heatmap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/heatmap.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/map.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/map.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/no-data-to-display.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/modules/no-data-to-display.src.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/themes/dark-blue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/themes/dark-green.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/themes/gray.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/themes/grid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/highcharts/themes/skies.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/jquery-1.10.2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/jquery-1.10.2.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/snapscreen/UEditorSnapscreen.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/font/vjs.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/font/vjs.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/font/vjs.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/font/vjs.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/video-js.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/video-js.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/video-js.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/video.dev.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/video-js/video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/Uploader.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.flashonly.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.flashonly.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.html5only.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.html5only.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.withoutimage.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/webuploader/webuploader.withoutimage.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/zeroclipboard/ZeroClipboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/zeroclipboard/ZeroClipboard.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/third-party/zeroclipboard/ZeroClipboard.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/ueditor.all.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/ueditor.all.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/ueditor.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/ueditor.parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/1.4.3/ueditor.parse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/member-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/member-del.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/member-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/member-record-browse.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/member-record-download.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/member-record-share.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/member-show.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/picture-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/picture-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/picture-show.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/product-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/product-brand.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/product-category-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/product-category.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/product-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/record-browse.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/record-download.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/record-share.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/system-base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/system-category-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/system-category.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/system-data.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/system-log.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/system-shielding.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/temp/200x150.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/user-add.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/user-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/user-password-edit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/user-show.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/hui-jxs/【开发必读】文档目录.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/license.pdf" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/license.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/icon-ext.png" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/icon-ext.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/icon.png" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/loading-0.gif" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/loading-0.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/loading-1.gif" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/loading-1.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/loading-2.gif" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/default/loading-2.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/images/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/images/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/css/zTreeStyle/img/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/css/zTreeStyle/img/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/images/cn.gif" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/images/cn.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/images/um.gif" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/images/um.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/blue/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/blue/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/default/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/default/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/green/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/green/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/orange/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/orange/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/red/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/red/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/yellow/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/yellow/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/images/face/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/images/face/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/images/iCheck/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/images/iCheck/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/images/ucnter/Thumbs.db" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/images/ucnter/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/404.html" afterPath="$PROJECT_DIR$/web/hui-jxs/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/Hui-iconfont/1.0.8/iconfont.min.css" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/Hui-iconfont/1.0.8/iconfont.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/My97DatePicker/4.8/WdatePicker.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/My97DatePicker/4.8/WdatePicker.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/highcharts-3d.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/highcharts-3d.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/highcharts-more.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/highcharts-more.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/highcharts.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/highcharts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/accessibility.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/accessibility.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/accessibility.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/accessibility.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/annotations.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/annotations.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/annotations.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/annotations.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/boost.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/boost.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/boost.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/boost.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/broken-axis.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/broken-axis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/broken-axis.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/broken-axis.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/data.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/data.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/data.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/drilldown.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/drilldown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/drilldown.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/drilldown.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/exporting.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/exporting.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/exporting.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/exporting.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/funnel.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/funnel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/funnel.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/funnel.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/gantt.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/gantt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/gantt.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/gantt.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/grid-axis.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/grid-axis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/grid-axis.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/grid-axis.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/heatmap.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/heatmap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/heatmap.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/heatmap.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/no-data-to-display.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/no-data-to-display.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/no-data-to-display.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/no-data-to-display.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/offline-exporting.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/offline-exporting.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/offline-exporting.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/offline-exporting.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/overlapping-datalabels.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/overlapping-datalabels.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/overlapping-datalabels.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/overlapping-datalabels.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/series-label.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/series-label.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/series-label.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/series-label.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/solid-gauge.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/solid-gauge.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/solid-gauge.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/solid-gauge.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/treemap.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/treemap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/treemap.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/treemap.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/xrange-series.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/xrange-series.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/xrange-series.src.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/modules/xrange-series.src.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/dark-blue.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/dark-blue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/dark-green.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/dark-green.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/dark-unica.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/dark-unica.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/gray.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/gray.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/grid-light.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/grid-light.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/grid.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/grid.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/sand-signika.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/sand-signika.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/skies.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/js/themes/skies.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/readme.txt" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/hcharts/Highcharts/5.0.6/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/layer.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/layer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/layer.css" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/layer/2.4/skin/layer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/laypage/1.2/laypage.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/laypage/1.2/laypage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/server/fileupload.php" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/server/fileupload.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/webuploader.fis.js" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/webuploader.fis.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/css/H-ui.login.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/css/H-ui.login.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/js/H-ui.admin.js" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/js/H-ui.admin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/blue/skin.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/blue/skin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/default/skin.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/default/skin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/green/skin.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/green/skin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/orange/skin.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/orange/skin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/red/skin.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/red/skin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/yellow/skin.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui.admin/skin/yellow/skin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/css/H-ui.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/css/H-ui.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/css/H-ui.min.css" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/css/H-ui.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/js/H-ui.js" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/js/H-ui.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/js/H-ui.min.js" afterPath="$PROJECT_DIR$/web/hui-jxs/static/h-ui/js/H-ui.min.js" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/404.html" afterPath="$PROJECT_DIR$/web/hui-jxs/404.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/Hui-iconfont/1.0.8/demo.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/Hui-iconfont/1.0.8/demo.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/lightbox2/2.8.1/examples.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/lightbox2/2.8.1/examples.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/anchor/anchor.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/anchor/anchor.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/attachment/attachment.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/attachment/attachment.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/background/background.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/background/background.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/charts/charts.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/charts/charts.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/emotion/emotion.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/emotion/emotion.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/gmap/gmap.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/gmap/gmap.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/help/help.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/help/help.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/image/image.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/image/image.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/insertframe/insertframe.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/insertframe/insertframe.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/link/link.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/link/link.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/map/map.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/map/map.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/map/show.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/map/show.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/music/music.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/music/music.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/preview/preview.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/preview/preview.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/scrawl/scrawl.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/scrawl/scrawl.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/searchreplace/searchreplace.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/searchreplace/searchreplace.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/snapscreen/snapscreen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/snapscreen/snapscreen.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/spechars/spechars.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/spechars/spechars.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittd.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittd.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittip.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittip.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/template/template.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/template/template.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/video/video.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/video/video.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/webapp/webapp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/webapp/webapp.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/wordimage/wordimage.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/wordimage/wordimage.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/index.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/cropper/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/cropper/index.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/image-upload/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/image-upload/index.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/md5-demo/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/md5-demo/index.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/requirejs/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/requirejs/index.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/API_cn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/API_cn.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/API_en.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/API_en.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree._z.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree._z.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.destroy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.destroy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.getZTreeObj.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.getZTreeObj.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.init.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.init.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.autoParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.autoParam.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.contentType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.contentType.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.dataFilter.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.dataFilter.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.dataType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.dataType.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.enable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.otherParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.otherParam.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.type.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.type.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.url.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeAsync.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeAsync.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeCheck.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeCollapse.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeCollapse.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDblClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDblClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDrag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDrag.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDragOpen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDragOpen.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDrop.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDrop.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeEditName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeEditName.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeExpand.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeMouseDown.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeMouseDown.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeMouseUp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeMouseUp.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRemove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRemove.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRename.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRename.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRightClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRightClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onAsyncError.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onAsyncError.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onAsyncSuccess.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onAsyncSuccess.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onCheck.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onCollapse.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onCollapse.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDblClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDblClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDrag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDrag.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDragMove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDragMove.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDrop.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDrop.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onExpand.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onMouseDown.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onMouseDown.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onMouseUp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onMouseUp.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onNodeCreated.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onNodeCreated.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRemove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRemove.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRename.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRename.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRightClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRightClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.autoCheckTrigger.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.autoCheckTrigger.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkDisabledInherit.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkDisabledInherit.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkStyle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkStyle.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkboxType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkboxType.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.enable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.nocheckInherit.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.nocheckInherit.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.radioType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.radioType.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.keep.leaf.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.keep.leaf.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.keep.parent.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.keep.parent.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.checked.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.checked.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.children.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.children.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.name.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.name.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.title.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.title.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.url.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.enable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.idKey.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.idKey.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.pIdKey.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.pIdKey.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.rootPId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.rootPId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.autoExpandTrigger.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.autoExpandTrigger.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.autoOpenTime.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.autoOpenTime.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.borderMax.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.borderMax.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.borderMin.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.borderMin.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.inner.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.inner.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.isCopy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.isCopy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.isMove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.isMove.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.maxShowNodeNum.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.maxShowNodeNum.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.minMoveSize.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.minMoveSize.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.next.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.next.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.prev.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.prev.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.editNameSelectAll.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.editNameSelectAll.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.enable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.removeTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.removeTitle.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.renameTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.renameTitle.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.showRemoveBtn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.showRemoveBtn.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.showRenameBtn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.showRenameBtn.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.treeId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.treeId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.treeObj.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.treeObj.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.addDiyDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.addDiyDom.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.addHoverDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.addHoverDom.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.autoCancelSelected.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.autoCancelSelected.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.dblClickExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.dblClickExpand.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.expandSpeed.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.expandSpeed.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.fontCss.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.fontCss.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.nameIsHTML.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.nameIsHTML.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.removeHoverDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.removeHoverDom.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.selectedMulti.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.selectedMulti.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showIcon.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showIcon.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showLine.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showLine.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showTitle.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.txtSelectedEnable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.txtSelectedEnable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.check_Child_State.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.check_Child_State.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.check_Focus.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.check_Focus.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.checked.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.checked.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.checkedOld.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.checkedOld.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.children.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.children.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.chkDisabled.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.chkDisabled.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.click.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.click.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.diy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.diy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.editNameFlag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.editNameFlag.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getCheckStatus.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getCheckStatus.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getNextNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getNextNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getParentNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getParentNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getPreNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getPreNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.halfCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.halfCheck.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.icon.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.icon.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconClose.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconClose.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconOpen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconOpen.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconSkin.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconSkin.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isAjaxing.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isAjaxing.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isFirstNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isFirstNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isHidden.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isHidden.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isHover.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isHover.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isLastNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isLastNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isParent.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isParent.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.level.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.level.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.name.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.name.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.nocheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.nocheck.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.open.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.open.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.parentTId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.parentTId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.tId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.tId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.target.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.target.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.url.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.zAsync.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.zAsync.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.addNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.addNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.cancelEditName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.cancelEditName.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.cancelSelectedNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.cancelSelectedNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.checkAllNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.checkAllNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.checkNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.checkNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.copyNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.copyNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.destroy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.destroy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.editName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.editName.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.expandAll.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.expandAll.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.expandNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.expandNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getChangeCheckedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getChangeCheckedNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getCheckedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getCheckedNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeByParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeByParam.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeByTId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeByTId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeIndex.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeIndex.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByFilter.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByFilter.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByParam.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByParamFuzzy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByParamFuzzy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getSelectedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getSelectedNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.hideNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.hideNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.hideNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.hideNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.moveNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.moveNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.reAsyncChildNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.reAsyncChildNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.refresh.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.refresh.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.removeChildNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.removeChildNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.removeNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.removeNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.selectNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.selectNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setChkDisabled.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setChkDisabled.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setEditable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setEditable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setting.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setting.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.showNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.showNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.showNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.showNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.transformToArray.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.transformToArray.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.transformTozTreeNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.transformTozTreeNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.updateNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.updateNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree._z.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree._z.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.destroy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.destroy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.getZTreeObj.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.getZTreeObj.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.init.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.init.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.autoParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.autoParam.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.contentType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.contentType.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.dataFilter.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.dataFilter.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.dataType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.dataType.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.enable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.otherParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.otherParam.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.type.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.type.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.url.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeAsync.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeAsync.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeCheck.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeCollapse.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeCollapse.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDblClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDblClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDrag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDrag.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDragOpen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDragOpen.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDrop.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDrop.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeEditName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeEditName.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeExpand.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeMouseDown.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeMouseDown.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeMouseUp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeMouseUp.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRemove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRemove.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRename.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRename.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRightClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRightClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onAsyncError.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onAsyncError.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onAsyncSuccess.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onAsyncSuccess.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onCheck.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onCollapse.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onCollapse.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDblClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDblClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDrag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDrag.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDragMove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDragMove.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDrop.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDrop.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onExpand.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onMouseDown.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onMouseDown.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onMouseUp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onMouseUp.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onNodeCreated.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onNodeCreated.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRemove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRemove.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRename.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRename.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRightClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRightClick.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.autoCheckTrigger.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.autoCheckTrigger.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkDisabledInherit.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkDisabledInherit.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkStyle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkStyle.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkboxType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkboxType.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.enable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.nocheckInherit.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.nocheckInherit.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.radioType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.radioType.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.keep.leaf.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.keep.leaf.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.keep.parent.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.keep.parent.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.checked.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.checked.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.children.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.children.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.name.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.name.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.title.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.title.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.url.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.enable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.idKey.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.idKey.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.pIdKey.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.pIdKey.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.rootPId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.rootPId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.autoExpandTrigger.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.autoExpandTrigger.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.autoOpenTime.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.autoOpenTime.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.borderMax.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.borderMax.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.borderMin.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.borderMin.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.inner.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.inner.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.isCopy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.isCopy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.isMove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.isMove.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.maxShowNodeNum.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.maxShowNodeNum.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.minMoveSize.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.minMoveSize.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.next.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.next.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.prev.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.prev.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.editNameSelectAll.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.editNameSelectAll.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.enable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.removeTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.removeTitle.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.renameTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.renameTitle.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.showRemoveBtn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.showRemoveBtn.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.showRenameBtn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.showRenameBtn.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.treeId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.treeId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.treeObj.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.treeObj.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.addDiyDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.addDiyDom.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.addHoverDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.addHoverDom.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.autoCancelSelected.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.autoCancelSelected.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.dblClickExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.dblClickExpand.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.expandSpeed.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.expandSpeed.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.fontCss.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.fontCss.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.nameIsHTML.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.nameIsHTML.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.removeHoverDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.removeHoverDom.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.selectedMulti.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.selectedMulti.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showIcon.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showIcon.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showLine.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showLine.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showTitle.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.txtSelectedEnable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.txtSelectedEnable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.check_Child_State.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.check_Child_State.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.check_Focus.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.check_Focus.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.checked.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.checked.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.checkedOld.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.checkedOld.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.children.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.children.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.chkDisabled.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.chkDisabled.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.click.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.click.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.diy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.diy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.editNameFlag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.editNameFlag.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getCheckStatus.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getCheckStatus.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getNextNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getNextNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getParentNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getParentNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getPreNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getPreNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.halfCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.halfCheck.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.icon.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.icon.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconClose.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconClose.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconOpen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconOpen.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconSkin.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconSkin.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isAjaxing.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isAjaxing.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isFirstNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isFirstNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isHidden.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isHidden.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isHover.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isHover.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isLastNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isLastNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isParent.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isParent.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.level.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.level.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.name.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.name.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.nocheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.nocheck.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.open.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.open.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.parentTId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.parentTId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.tId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.tId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.target.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.target.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.url.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.zAsync.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.zAsync.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.addNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.addNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.cancelEditName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.cancelEditName.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.cancelSelectedNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.cancelSelectedNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.checkAllNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.checkAllNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.checkNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.checkNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.copyNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.copyNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.destroy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.destroy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.editName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.editName.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.expandAll.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.expandAll.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.expandNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.expandNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getChangeCheckedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getChangeCheckedNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getCheckedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getCheckedNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeByParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeByParam.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeByTId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeByTId.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeIndex.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeIndex.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByFilter.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByFilter.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByParam.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByParamFuzzy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByParamFuzzy.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getSelectedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getSelectedNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.hideNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.hideNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.hideNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.hideNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.moveNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.moveNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.reAsyncChildNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.reAsyncChildNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.refresh.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.refresh.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.removeChildNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.removeChildNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.removeNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.removeNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.selectNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.selectNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setChkDisabled.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setChkDisabled.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setEditable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setEditable.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setting.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setting.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.showNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.showNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.showNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.showNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.transformToArray.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.transformToArray.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.transformTozTreeNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.transformTozTreeNodes.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.updateNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.updateNode.html" />
+      <change beforePath="$PROJECT_DIR$/web/hui-jxs/map.html" afterPath="$PROJECT_DIR$/web/hui-jxs/map.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -483,42 +378,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2323">
-              <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="480" column="0" lean-forward="false" selection-start-line="480" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>bottom_menu</find>
+      <find>his_.type_string</find>
+      <find>type_string</find>
+      <find>this_.</find>
+      <find>this</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -532,9 +400,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ht/dao/impl/ArticleDAOimpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ht/dao/impl/ManagerDAOimpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ht/service/impl/AppointmentServiceimpl.java" />
       </list>
     </option>
   </component>
@@ -558,7 +429,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="395" />
     <option name="y" value="36" />
     <option name="width" value="1060" />
@@ -580,16 +451,102 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
               <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ht" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ht" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ht" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ht" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ht" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ht" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="hbm_xml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
@@ -602,20 +559,29 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22068965" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Course_catalog/Eclipse_Note/SaleHome/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/ueditor-1.1.2.jar!/" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -638,45 +604,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.0.39">
-    <configuration name="Tomcat 8.0.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.39" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment>
-        <artifact name="SaleHome:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_39_SaleHome" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="SaleHome:war exploded" />
-        </option>
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -718,12 +646,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -758,9 +680,56 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="Tomcat 8.0.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.39" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="SaleHome:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_0_39_SaleHome" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SaleHome:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -772,14 +741,15 @@
       <workItem from="1507595051252" duration="526000" />
       <workItem from="1507616923351" duration="110000" />
       <workItem from="1507620917520" duration="11903000" />
+      <workItem from="1523083842131" duration="7369000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12539000" />
+    <option name="totallyTimeSpent" value="19908000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
@@ -793,16 +763,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30228758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33387887" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2322239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -825,7 +795,312 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/GetPrizeServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#419#420#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/HistoryServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#435#436#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/HouseServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#410#411#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/LikeServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/LoginRegisterServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#546#547#0" expanded="false" />
+            <element signature="e#593#594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/LouDongServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#438#439#0" expanded="false" />
+            <element signature="e#473#474#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/LouPanImgServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#441#442#0" expanded="false" />
+            <element signature="e#480#481#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/LouPanServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#396#397#0" expanded="false" />
+            <element signature="e#429#430#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/MessageServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#406#407#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/MissionServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#374#375#0" expanded="false" />
+            <element signature="e#409#410#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/PageServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/ManagerServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#406#407#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/PhoneCodeServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#432#433#0" expanded="false" />
+            <element signature="e#471#472#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/RoomServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="e#424#425#0" expanded="false" />
+            <element signature="e#453#454#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/TAgencyServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#429#430#0" expanded="false" />
+            <element signature="e#464#465#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/TArticleTypeServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
+          <folding>
+            <element signature="e#472#473#0" expanded="false" />
+            <element signature="e#517#518#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/UserPrizeServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#432#433#0" expanded="false" />
+            <element signature="e#471#472#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/UserServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/SaleServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#367#368#0" expanded="false" />
+            <element signature="e#396#397#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TActivity.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TAgency.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TAppointment.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TArticle.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TArticleType.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TBuilding.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TBuildingsImg.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TGetPrize.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TMission.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TRoom.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/ht/hbm_xml/TUser.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -833,51 +1108,158 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-appointment.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-8">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SaleHome.iml">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-customer.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1035">
+        <state relative-caret-position="-8">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/jdbc.properties">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-hibernate.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-like.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2323">
-          <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-message.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-tagney.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/spring-wz.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/struts-appointment.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/struts-customer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/struts-history.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/struts-login-regirest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/struts-mission.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/struts-sale.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/config/struts-wz.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/filter/UEditorFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="480" column="0" lean-forward="false" selection-start-line="480" selection-start-column="0" selection-end-line="480" selection-end-column="0" />
+        <state relative-caret-position="55">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/dao/impl/ArticleDAOimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/dao/impl/AppointmentDAOimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="91" column="55" lean-forward="false" selection-start-line="91" selection-start-column="55" selection-end-line="91" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/dao/impl/ActivityDAOimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#716#717#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -940,6 +1322,7 @@
             <option name="proportions">
               <list>
                 <option value="0.22068965" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -959,7 +1342,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>servlet-api</last-edited>
+          <last-edited>commons-codec-1.9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

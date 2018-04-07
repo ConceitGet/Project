@@ -106,7 +106,6 @@ public class ArticleDAOimpl implements ArticleDAO{
 		dc.add(Restrictions.eq("statusInt", 0));
 		dc.addOrder(Order.desc("createdTime"));
 		Criteria criteria = dc.getExecutableCriteria(session).setFirstResult(0).setMaxResults(2);
-		@SuppressWarnings("unchecked")
 		List<TArticle> list = criteria.list();
 		return list;
 	}
