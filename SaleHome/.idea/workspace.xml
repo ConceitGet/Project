@@ -6,368 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f717ebf-c03c-4318-adc6-a2733c6da175" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/404.html" afterPath="$PROJECT_DIR$/web/hui-jxs/404.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/Hui-iconfont/1.0.8/demo.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/Hui-iconfont/1.0.8/demo.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/lightbox2/2.8.1/examples.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/lightbox2/2.8.1/examples.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/anchor/anchor.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/anchor/anchor.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/attachment/attachment.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/attachment/attachment.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/background/background.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/background/background.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/charts/charts.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/charts/charts.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/emotion/emotion.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/emotion/emotion.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/gmap/gmap.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/gmap/gmap.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/help/help.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/help/help.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/image/image.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/image/image.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/insertframe/insertframe.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/insertframe/insertframe.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/link/link.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/link/link.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/map/map.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/map/map.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/map/show.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/map/show.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/music/music.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/music/music.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/preview/preview.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/preview/preview.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/scrawl/scrawl.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/scrawl/scrawl.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/searchreplace/searchreplace.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/searchreplace/searchreplace.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/snapscreen/snapscreen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/snapscreen/snapscreen.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/spechars/spechars.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/spechars/spechars.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittd.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittd.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittip.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/table/edittip.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/template/template.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/template/template.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/video/video.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/video/video.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/webapp/webapp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/webapp/webapp.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/wordimage/wordimage.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/dialogs/wordimage/wordimage.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/ueditor/index.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/cropper/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/cropper/index.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/image-upload/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/image-upload/index.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/md5-demo/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/md5-demo/index.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/requirejs/index.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/webuploader/0.1.5/requirejs/index.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/API_cn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/API_cn.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/API_en.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/API_en.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree._z.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree._z.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.destroy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.destroy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.getZTreeObj.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.getZTreeObj.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.init.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/fn.zTree.init.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.autoParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.autoParam.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.contentType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.contentType.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.dataFilter.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.dataFilter.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.dataType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.dataType.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.enable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.otherParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.otherParam.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.type.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.type.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.async.url.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeAsync.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeAsync.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeCheck.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeCollapse.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeCollapse.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDblClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDblClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDrag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDrag.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDragOpen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDragOpen.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDrop.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeDrop.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeEditName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeEditName.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeExpand.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeMouseDown.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeMouseDown.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeMouseUp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeMouseUp.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRemove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRemove.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRename.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRename.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRightClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.beforeRightClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onAsyncError.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onAsyncError.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onAsyncSuccess.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onAsyncSuccess.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onCheck.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onCollapse.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onCollapse.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDblClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDblClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDrag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDrag.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDragMove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDragMove.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDrop.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onDrop.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onExpand.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onMouseDown.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onMouseDown.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onMouseUp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onMouseUp.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onNodeCreated.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onNodeCreated.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRemove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRemove.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRename.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRename.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRightClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.callback.onRightClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.autoCheckTrigger.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.autoCheckTrigger.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkDisabledInherit.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkDisabledInherit.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkStyle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkStyle.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkboxType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.chkboxType.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.enable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.nocheckInherit.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.nocheckInherit.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.radioType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.check.radioType.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.keep.leaf.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.keep.leaf.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.keep.parent.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.keep.parent.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.checked.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.checked.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.children.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.children.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.name.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.name.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.title.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.title.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.key.url.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.enable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.idKey.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.idKey.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.pIdKey.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.pIdKey.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.rootPId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.data.simpleData.rootPId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.autoExpandTrigger.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.autoExpandTrigger.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.autoOpenTime.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.autoOpenTime.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.borderMax.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.borderMax.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.borderMin.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.borderMin.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.inner.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.inner.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.isCopy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.isCopy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.isMove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.isMove.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.maxShowNodeNum.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.maxShowNodeNum.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.minMoveSize.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.minMoveSize.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.next.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.next.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.prev.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.drag.prev.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.editNameSelectAll.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.editNameSelectAll.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.enable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.removeTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.removeTitle.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.renameTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.renameTitle.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.showRemoveBtn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.showRemoveBtn.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.showRenameBtn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.edit.showRenameBtn.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.treeId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.treeId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.treeObj.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.treeObj.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.addDiyDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.addDiyDom.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.addHoverDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.addHoverDom.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.autoCancelSelected.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.autoCancelSelected.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.dblClickExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.dblClickExpand.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.expandSpeed.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.expandSpeed.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.fontCss.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.fontCss.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.nameIsHTML.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.nameIsHTML.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.removeHoverDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.removeHoverDom.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.selectedMulti.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.selectedMulti.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showIcon.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showIcon.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showLine.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showLine.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.showTitle.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.txtSelectedEnable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/setting.view.txtSelectedEnable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.check_Child_State.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.check_Child_State.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.check_Focus.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.check_Focus.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.checked.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.checked.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.checkedOld.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.checkedOld.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.children.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.children.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.chkDisabled.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.chkDisabled.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.click.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.click.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.diy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.diy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.editNameFlag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.editNameFlag.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getCheckStatus.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getCheckStatus.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getNextNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getNextNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getParentNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getParentNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getPreNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.getPreNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.halfCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.halfCheck.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.icon.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.icon.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconClose.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconClose.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconOpen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconOpen.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconSkin.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.iconSkin.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isAjaxing.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isAjaxing.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isFirstNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isFirstNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isHidden.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isHidden.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isHover.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isHover.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isLastNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isLastNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isParent.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.isParent.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.level.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.level.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.name.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.name.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.nocheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.nocheck.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.open.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.open.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.parentTId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.parentTId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.tId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.tId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.target.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.target.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.url.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.zAsync.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/treeNode.zAsync.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.addNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.addNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.cancelEditName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.cancelEditName.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.cancelSelectedNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.cancelSelectedNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.checkAllNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.checkAllNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.checkNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.checkNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.copyNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.copyNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.destroy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.destroy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.editName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.editName.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.expandAll.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.expandAll.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.expandNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.expandNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getChangeCheckedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getChangeCheckedNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getCheckedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getCheckedNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeByParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeByParam.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeByTId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeByTId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeIndex.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodeIndex.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByFilter.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByFilter.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByParam.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByParamFuzzy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getNodesByParamFuzzy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getSelectedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.getSelectedNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.hideNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.hideNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.hideNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.hideNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.moveNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.moveNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.reAsyncChildNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.reAsyncChildNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.refresh.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.refresh.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.removeChildNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.removeChildNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.removeNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.removeNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.selectNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.selectNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setChkDisabled.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setChkDisabled.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setEditable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setEditable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setting.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.setting.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.showNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.showNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.showNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.showNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.transformToArray.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.transformToArray.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.transformTozTreeNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.transformTozTreeNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.updateNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/cn/zTreeObj.updateNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree._z.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree._z.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.destroy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.destroy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.getZTreeObj.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.getZTreeObj.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.init.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/fn.zTree.init.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.autoParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.autoParam.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.contentType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.contentType.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.dataFilter.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.dataFilter.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.dataType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.dataType.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.enable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.otherParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.otherParam.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.type.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.type.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.async.url.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeAsync.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeAsync.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeCheck.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeCollapse.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeCollapse.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDblClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDblClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDrag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDrag.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDragOpen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDragOpen.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDrop.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeDrop.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeEditName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeEditName.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeExpand.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeMouseDown.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeMouseDown.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeMouseUp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeMouseUp.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRemove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRemove.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRename.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRename.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRightClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.beforeRightClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onAsyncError.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onAsyncError.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onAsyncSuccess.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onAsyncSuccess.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onCheck.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onCollapse.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onCollapse.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDblClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDblClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDrag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDrag.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDragMove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDragMove.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDrop.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onDrop.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onExpand.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onMouseDown.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onMouseDown.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onMouseUp.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onMouseUp.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onNodeCreated.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onNodeCreated.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRemove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRemove.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRename.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRename.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRightClick.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.callback.onRightClick.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.autoCheckTrigger.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.autoCheckTrigger.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkDisabledInherit.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkDisabledInherit.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkStyle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkStyle.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkboxType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.chkboxType.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.enable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.nocheckInherit.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.nocheckInherit.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.radioType.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.check.radioType.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.keep.leaf.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.keep.leaf.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.keep.parent.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.keep.parent.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.checked.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.checked.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.children.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.children.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.name.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.name.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.title.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.title.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.key.url.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.enable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.idKey.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.idKey.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.pIdKey.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.pIdKey.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.rootPId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.data.simpleData.rootPId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.autoExpandTrigger.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.autoExpandTrigger.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.autoOpenTime.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.autoOpenTime.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.borderMax.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.borderMax.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.borderMin.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.borderMin.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.inner.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.inner.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.isCopy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.isCopy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.isMove.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.isMove.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.maxShowNodeNum.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.maxShowNodeNum.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.minMoveSize.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.minMoveSize.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.next.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.next.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.prev.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.drag.prev.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.editNameSelectAll.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.editNameSelectAll.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.enable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.enable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.removeTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.removeTitle.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.renameTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.renameTitle.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.showRemoveBtn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.showRemoveBtn.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.showRenameBtn.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.edit.showRenameBtn.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.treeId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.treeId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.treeObj.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.treeObj.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.addDiyDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.addDiyDom.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.addHoverDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.addHoverDom.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.autoCancelSelected.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.autoCancelSelected.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.dblClickExpand.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.dblClickExpand.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.expandSpeed.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.expandSpeed.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.fontCss.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.fontCss.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.nameIsHTML.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.nameIsHTML.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.removeHoverDom.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.removeHoverDom.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.selectedMulti.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.selectedMulti.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showIcon.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showIcon.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showLine.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showLine.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showTitle.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.showTitle.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.txtSelectedEnable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/setting.view.txtSelectedEnable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.check_Child_State.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.check_Child_State.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.check_Focus.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.check_Focus.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.checked.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.checked.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.checkedOld.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.checkedOld.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.children.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.children.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.chkDisabled.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.chkDisabled.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.click.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.click.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.diy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.diy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.editNameFlag.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.editNameFlag.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getCheckStatus.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getCheckStatus.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getNextNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getNextNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getParentNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getParentNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getPreNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.getPreNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.halfCheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.halfCheck.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.icon.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.icon.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconClose.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconClose.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconOpen.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconOpen.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconSkin.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.iconSkin.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isAjaxing.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isAjaxing.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isFirstNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isFirstNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isHidden.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isHidden.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isHover.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isHover.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isLastNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isLastNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isParent.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.isParent.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.level.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.level.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.name.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.name.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.nocheck.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.nocheck.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.open.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.open.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.parentTId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.parentTId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.tId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.tId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.target.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.target.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.url.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.url.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.zAsync.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/treeNode.zAsync.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.addNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.addNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.cancelEditName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.cancelEditName.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.cancelSelectedNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.cancelSelectedNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.checkAllNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.checkAllNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.checkNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.checkNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.copyNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.copyNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.destroy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.destroy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.editName.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.editName.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.expandAll.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.expandAll.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.expandNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.expandNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getChangeCheckedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getChangeCheckedNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getCheckedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getCheckedNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeByParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeByParam.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeByTId.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeByTId.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeIndex.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodeIndex.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByFilter.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByFilter.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByParam.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByParam.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByParamFuzzy.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getNodesByParamFuzzy.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getSelectedNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.getSelectedNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.hideNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.hideNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.hideNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.hideNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.moveNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.moveNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.reAsyncChildNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.reAsyncChildNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.refresh.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.refresh.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.removeChildNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.removeChildNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.removeNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.removeNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.selectNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.selectNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setChkDisabled.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setChkDisabled.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setEditable.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setEditable.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setting.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.setting.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.showNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.showNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.showNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.showNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.transformToArray.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.transformToArray.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.transformTozTreeNodes.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.transformTozTreeNodes.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.updateNode.html" afterPath="$PROJECT_DIR$/web/hui-jxs/lib/zTree/v3/api/en/zTreeObj.updateNode.html" />
-      <change beforePath="$PROJECT_DIR$/web/hui-jxs/map.html" afterPath="$PROJECT_DIR$/web/hui-jxs/map.html" />
-    </list>
+    <list default="true" id="4f717ebf-c03c-4318-adc6-a2733c6da175" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -378,7 +17,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="55" column="26" lean-forward="false" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/top.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FaceMainAction.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/controller/FaceMainAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -430,10 +100,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="395" />
-    <option name="y" value="36" />
-    <option name="width" value="1060" />
-    <option name="height" value="670" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -452,7 +122,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -474,114 +143,25 @@
             <path>
               <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
               <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ht" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ht" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ht" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ht" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ht" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ht" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="hbm_xml" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SaleHome" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SaleHome" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22068965" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib/ueditor-1.1.2.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -742,11 +322,13 @@
       <workItem from="1507616923351" duration="110000" />
       <workItem from="1507620917520" duration="11903000" />
       <workItem from="1523083842131" duration="7369000" />
+      <workItem from="1523603057192" duration="4013000" />
+      <workItem from="1524135691467" duration="2433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19908000" />
+    <option name="totallyTimeSpent" value="26354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -768,11 +350,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30228758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.625817" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21709532" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22314675" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
@@ -795,47 +377,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/GetPrizeServiceimpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#419#420#0" expanded="false" />
-            <element signature="e#456#457#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/HistoryServiceimpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="e#435#436#0" expanded="false" />
-            <element signature="e#470#471#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/HouseServiceimpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="e#410#411#0" expanded="false" />
-            <element signature="e#441#442#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/LikeServiceimpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#367#368#0" expanded="false" />
-            <element signature="e#396#397#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -843,10 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#546#547#0" expanded="false" />
-            <element signature="e#593#594#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -854,10 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="e#438#439#0" expanded="false" />
-            <element signature="e#473#474#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -865,10 +402,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="12" />
-          <folding>
-            <element signature="e#441#442#0" expanded="false" />
-            <element signature="e#480#481#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,10 +409,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#396#397#0" expanded="false" />
-            <element signature="e#429#430#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -887,10 +416,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#406#407#0" expanded="false" />
-            <element signature="e#441#442#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -898,10 +423,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <element signature="e#374#375#0" expanded="false" />
-            <element signature="e#409#410#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -909,10 +430,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#367#368#0" expanded="false" />
-            <element signature="e#396#397#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -920,10 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#406#407#0" expanded="false" />
-            <element signature="e#441#442#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -931,10 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#471#472#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -942,10 +451,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#424#425#0" expanded="false" />
-            <element signature="e#453#454#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -953,10 +458,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="e#429#430#0" expanded="false" />
-            <element signature="e#464#465#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -964,10 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="19" column="12" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="12" />
-          <folding>
-            <element signature="e#472#473#0" expanded="false" />
-            <element signature="e#517#518#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -975,10 +472,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#432#433#0" expanded="false" />
-            <element signature="e#471#472#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -986,10 +479,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#367#368#0" expanded="false" />
-            <element signature="e#396#397#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -997,10 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#367#368#0" expanded="false" />
-            <element signature="e#396#397#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1008,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1024,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1032,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,7 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1072,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,7 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,7 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1176,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1184,7 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1192,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1200,7 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1208,7 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1216,15 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1232,7 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1240,7 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1248,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="91" column="55" lean-forward="false" selection-start-line="91" selection-start-column="55" selection-end-line="91" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,10 +712,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="55" column="26" lean-forward="false" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/service/impl/ActivityServiceimpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ht/controller/FaceMainAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
