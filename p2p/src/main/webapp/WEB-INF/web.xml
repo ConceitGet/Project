@@ -4,115 +4,156 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
          version="3.1">
 
-  <context-param>
-    <param-name>logbackConfigLocation</param-name>
-    <param-value>classpath:/config/logback.xml</param-value>
-  </context-param>
-  <listener>
-    <listener-class>ch.qos.logback.ext.spring.web.LogbackConfigListener</listener-class>
-  </listener>
+    <!--全局范围内环境参数初始化-->
+    <context-param>
+        <param-name>logbackConfigLocation</param-name>
+        <param-value>classpath:/config/logback.xml</param-value>
+    </context-param>
 
-  <context-param>
-    <param-name>contextConfigLocation</param-name>
-    <param-value>classpath:/config/spring-*.xml</param-value>
-  </context-param>
-  <listener>
-    <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
-  </listener>
+    <!--以下配置的加载顺序:先 ServletContext >> context-param >> listener >> filter >> servlet >>  spring-->
+
+    <!--配置Spring容器-->
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>classpath:/config/spring-*.xml</param-value>
+    </context-param>
+
+    <!--用来设定Listener接口-->
+    <listener>
+        <!--定义Listener的类名称-->
+        <listener-class>ch.qos.logback.ext.spring.web.LogbackConfigListener</listener-class>
+    </listener>
+    <!--例:spring监听器-->
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+    <!-- 防止Spring内存溢出监听器  -->
+    <listener>
+        <listener-class>org.springframework.web.util.IntrospectorCleanupListener</listener-class>
+    </listener>
+
+    <!--例:编码过滤器-->
+    <!-- 用来声明filter的相关设定,过滤器可以截取和修改一个Servlet或JSP页面的请求或从一个Servlet或JSP页面发出的响应-->
+    <filter>
+        <!--指定filter的名字-->
+        <filter-name>CharacterEncodingFilter</filter-name>
+        <!--定义filter的类的名称-->
+        <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
+        <!--用来定义参数,若在Servlet可以使用下列方法来获得:String param_name=getServletContext().getInitParamter("param-name里面的值");-->
+        <init-param>
+            <!--参数名称-->
+            <param-name>encoding</param-name>
+            <!--参数值-->
+            <param-value>utf-8</param-value>
+        </init-param>
+        <init-param>
+            <param-name>forceEncoding</param-name>
+            <param-value>true</param-value>
+        </init-param>
+    </filter>
+    <!--用来定义filter所对应的URL-->
+    <filter-mapping>
+        <!--指定对应filter的名字-->
+        <filter-name>CharacterEncodingFilter</filter-name>
+        <!--指定filter所对应的URL-->
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <filter>
+        <filter-name>DruidWebStatFilter</filter-name>
+        <filter-class>com.alibaba.druid.support.http.WebStatFilter</filter-class>
+        <init-param>
+            <param-name>exclusions</param-name>
+            <param-value>*.js,*.gif,*.jpg,*.png,*.css,*.ico,/druid/*</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>DruidWebStatFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <!-- 配置shiro的核心拦截器 -->
+    <filter>
+        <filter-name>shiroFilter</filter-name>
+        <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
+        <init-param>
+            <param-name>targetFilterLifecycle</param-name>
+            <param-value>true</param-value>
+        </init-param>
+    </filter>
+    <filter-mapping>
+        <filter-name>shiroFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <!--用来声明一个servlet的数据 -->
+    <servlet>
+        <!--指定servlet的名称-->
+        <servlet-name>dispatcher</servlet-name>
+        <!--指定servlet的类名称,这里配置了前端控制器-->
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <!--用来定义参数,可有多个init-param。在servlet类中通过getInitParamenter(String name)方法访问初始化参数    -->
+        <init-param>
+            <!--参数名称-->
+            <param-name>contextConfigLocation</param-name>
+            <!--参数值-->
+            <param-value>classpath:/config/springmvc.xml</param-value>
+        </init-param>
+        <!--当值为正数或零时：Servlet容器先加载数值小的servlet，再依次加载其他数值大的servlet.-->
+        <load-on-startup>1</load-on-startup>
+        <!--<async-supported>true</async-supported>&lt;!&ndash;设置是否启用异步支持&ndash;&gt;-->
+    </servlet>
+    <!--用来定义servlet所对应的URL-->
+    <servlet-mapping>
+        <!--指定servlet的名称-->
+        <servlet-name>dispatcher</servlet-name>
+        <!--指定servlet所对应的URL-->
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>DruidStatView</servlet-name>
+        <servlet-class>com.alibaba.druid.support.http.StatViewServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DruidStatView</servlet-name>
+        <url-pattern>/druid/*</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>default</servlet-name>
+        <url-pattern>*.jpg</url-pattern>
+        <url-pattern>*.js</url-pattern>
+        <url-pattern>*.css</url-pattern>
+        <url-pattern>*.png</url-pattern>
+        <url-pattern>*.gif</url-pattern>
+        <url-pattern>*.json</url-pattern>
+        <url-pattern>*.html</url-pattern>
+        <url-pattern>*.htm</url-pattern>
+        <url-pattern>*.swf</url-pattern>
+    </servlet-mapping>
 
 
 
-  <servlet>
-    <servlet-name>dispatcher</servlet-name>
-    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
-    <init-param>
-      <param-name>contextConfigLocation</param-name>
-      <param-value>classpath:/config/springmvc.xml</param-value>
-    </init-param>
-    <load-on-startup>1</load-on-startup>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>dispatcher</servlet-name>
-    <url-pattern>/</url-pattern>
-  </servlet-mapping>
+    <!--欢迎页面配置  -->
+    <!--定义首页列单.-->
+    <welcome-file-list>
+        <!--用来指定首页文件名称.我们可以用<welcome-file>指定几个首页,而服务器会依照设定的顺序来找首页.-->
+        <welcome-file>/index</welcome-file>
+        <!--<welcome-file>/index.html</welcome-file>可配置多个-->
+    </welcome-file-list>
 
-  <filter>
-    <filter-name>CharacterEncodingFilter</filter-name>
-    <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
-    <init-param>
-      <param-name>encoding</param-name>
-      <param-value>utf-8</param-value>
-    </init-param>
-    <init-param>
-      <param-name>forceEncoding</param-name>
-      <param-value>true</param-value>
-    </init-param>
-  </filter>
-  <filter-mapping>
-    <filter-name>CharacterEncodingFilter</filter-name>
-    <url-pattern>/*</url-pattern>
-  </filter-mapping>
-
-  <filter>
-    <filter-name>DruidWebStatFilter</filter-name>
-    <filter-class>com.alibaba.druid.support.http.WebStatFilter</filter-class>
-    <init-param>
-      <param-name>exclusions</param-name>
-      <param-value>*.js,*.gif,*.jpg,*.png,*.css,*.ico,/druid/*</param-value>
-    </init-param>
-  </filter>
-  <filter-mapping>
-    <filter-name>DruidWebStatFilter</filter-name>
-    <url-pattern>/*</url-pattern>
-  </filter-mapping>
-
-  <servlet>
-    <servlet-name>DruidStatView</servlet-name>
-    <servlet-class>com.alibaba.druid.support.http.StatViewServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>DruidStatView</servlet-name>
-    <url-pattern>/druid/*</url-pattern>
-  </servlet-mapping>
-
-  <servlet-mapping>
-    <servlet-name>default</servlet-name>
-    <url-pattern>*.jpg</url-pattern>
-    <url-pattern>*.js</url-pattern>
-    <url-pattern>*.css</url-pattern>
-    <url-pattern>*.png</url-pattern>
-    <url-pattern>*.gif</url-pattern>
-    <url-pattern>*.json</url-pattern>
-    <url-pattern>*.html</url-pattern>
-    <url-pattern>*.htm</url-pattern>
-    <url-pattern>*.swf</url-pattern>
-  </servlet-mapping>
-
-  <!-- 配置shiro的核心拦截器 -->
-  <filter>
-    <filter-name>shiroFilter</filter-name>
-    <filter-class>org.springframework.web.filter.DelegatingFilterProxy</filter-class>
-    <init-param>
-      <param-name>targetFilterLifecycle</param-name>
-      <param-value>true</param-value>
-    </init-param>
-  </filter>
-  <filter-mapping>
-    <filter-name>shiroFilter</filter-name>
-    <url-pattern>/*</url-pattern>
-  </filter-mapping>
-
-  <welcome-file-list>
-    <welcome-file>/index</welcome-file>
-  </welcome-file-list>
-
-  <error-page>
-    <error-code>404</error-code>
-    <location>/WEB-INF/views/404.jsp</location>
-  </error-page>
-  <error-page>
-    <error-code>500</error-code>
-    <location>/WEB-INF/views/404.jsp</location>
-  </error-page>
+    <!--配置错误页面-->
+    <!--将错误代码(Error Code)或异常(Exception)的种类对应到web应用资源路径.-->
+    <error-page>
+        <!--HTTP Error code,例如: 404、403-->
+        <error-code>404</error-code>
+        <!--用来设置发生错误或异常时要显示的页面-->
+        <location>/WEB-INF/views/404.jsp</location>
+    </error-page>
+    <error-page>
+        <error-code>500</error-code>
+        <location>/WEB-INF/views/404.jsp</location>
+    </error-page>
 
 </web-app>
